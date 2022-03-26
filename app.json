@@ -22,7 +22,7 @@
         },
         "BOT_TOKEN": {
             "description": "Bot token, get it from @BotFather.",
-            "value": "5002292255:AAEGHwgg9KF7oEbR1IVYqbCFUkdI0qccsj0"
+            "value": "5002292255:AAG3EmBHEaTPRxW8hZ797xuES-baLWm29Wo"
         },
         "AUTH_USERS": {
             "description": "Bot owner's UserID.",
